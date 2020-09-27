@@ -1,0 +1,305 @@
+body {
+    background-color: rgba(9, 75, 39, 0.295);
+}
+.header1 {
+    border: 2px solid black;
+    background-color: rgba(255, 230, 0, 0.616);
+    text-align: center;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.one {
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 60%;
+}
+/*Here starts the css for box1 and product1*/
+.box1 {
+    border: 2px solid greenyellow;
+    border-radius: 15px;
+    width: 200px;
+    height: 600px;
+    box-shadow: 5px 10px;
+    float: left;
+    margin: auto;
+    margin-left: 260px;
+    margin-right: 70px;
+}
+.product1 {
+    width: 200px;
+    height: 300px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+h2 {
+    margin: auto;
+    margin-left: 25px;
+}
+p {
+    margin: auto;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.box1>h4:last-child {
+    background-color: orange;
+    width: 100px;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+}
+h4 {
+    margin: auto;
+    margin-left: 55px;
+    margin-top: 20px;
+}
+.box1>h4:last-child:hover {
+    background-color: sienna;
+}
+/*Here starts the css for box2 and product2*/
+.box2 {
+    border: 2px solid greenyellow;
+    border-radius: 15px;
+    width: 200px;
+    height: 600px;
+    box-shadow: 5px 10px;
+    float: left;
+    margin: auto;
+    margin-left: auto;
+    margin-right: 50px;
+}
+.product2 {
+    width: 200px;
+    height: 300px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+h2 {
+    margin: auto;
+    margin-left: 25px;
+}
+p {
+    margin: auto;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.box2>h4:last-child {
+    background-color: orange;
+    width: 100px;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+}
+h4 {
+    margin: auto;
+    margin-left: 55px;
+    margin-top: 20px;
+}
+.box2>h4:last-child:hover {
+    background-color: sienna;
+}
+/*Here starts the css for box3 and product3*/
+.box3 {
+    border: 2px solid greenyellow;
+    border-radius: 15px;
+    width: 200px;
+    height: 600px;
+    box-shadow: 5px 10px;
+    float: left;
+    margin: auto;
+    margin-left: 15px;
+}
+.product3 {
+    width: 200px;
+    height: 300px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+h2 {
+    margin: auto;
+    margin-left: 25px;
+}
+p {
+    margin: auto;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.box3>h4:last-child {
+    background-color: orange;
+    width: 100px;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+}
+h4 {
+    margin: auto;
+    margin-left: 55px;
+    margin-top: 20px;
+}
+.box3>h4:last-child:hover {
+    background-color: sienna;
+}
+/*Here starts the css for box4 and product4*/
+.box4 {
+    border: 2px solid greenyellow;
+    border-radius: 15px;
+    width: 200px;
+    height: 600px;
+    box-shadow: 5px 10px;
+    float: left;
+    margin: auto;
+    margin-left: 260px;
+    margin-top: 50px;
+}
+.product4 {
+    width: 200px;
+    height: 300px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+h2 {
+    margin: auto;
+    margin-left: 25px;
+}
+p {
+    margin: auto;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.box4>h4:last-child {
+    background-color: orange;
+    width: 100px;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+}
+h4 {
+    margin: auto;
+    margin-left: 55px;
+    margin-top: 20px;
+}
+.box4>h4:last-child:hover {
+    background-color: sienna;
+}
+/*Here starts the css for box5 and product5*/
+.box5 {
+    border: 2px solid greenyellow;
+    border-radius: 15px;
+    width: 200px;
+    height: 600px;
+    box-shadow: 5px 10px;
+    float: left;
+    margin: auto;
+    margin-left: 70px;
+    margin-top: 50px;
+}
+.product5 {
+    width: 200px;
+    height: 300px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+h2 {
+    margin: auto;
+    margin-left: 25px;
+}
+p {
+    margin: auto;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.box5>h4:last-child {
+    background-color: orange;
+    width: 100px;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+}
+h4 {
+    margin: auto;
+    margin-left: 55px;
+    margin-top: 20px;
+}
+.box5>h4:last-child:hover {
+    background-color: sienna;
+}
+/*Here starts the css for box6 and product6*/
+.box6 {
+    border: 2px solid greenyellow;
+    border-radius: 15px;
+    width: 200px;
+    height: 600px;
+    box-shadow: 5px 10px;
+    float: left;
+    margin: auto;
+    margin-left: 70px;
+    margin-top: 50px;
+}
+.product6 {
+    width: 200px;
+    height: 300px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+h2 {
+    margin: auto;
+    margin-left: 25px;
+}
+p {
+    margin: auto;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.box6>h4:last-child {
+    background-color: orange;
+    width: 100px;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+}
+h4 {
+    margin: auto;
+    margin-left: 55px;
+    margin-top: 20px;
+}
+.box6>h4:last-child:hover {
+    background-color: sienna;
+}
+.two {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 60%;
+}
+.shop1 {
+position: relative;
+top: 50px;
+left: 5px;
+}
+.header2 {
+    border: 2px solid black;
+    background-color: rgba(255, 230, 0, 0.616);
+    text-align: center;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    left: 5px;
+    top: 10px;
+}
+.exit{
+position: relative;
+left: 550px;
+top: 6px;
+}
